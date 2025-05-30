@@ -6,12 +6,7 @@ output:
 
 ## Workshop Material
 
-In this workshop we will cover:
-
-- Best practices for making analyses reproducible
-- Best practices for organizing data and code
-- Writing durable code and managing package versions
-- Using GitHub to make code open source
+This workshop will cover real-world examples of AI success stories and blunders, as well as what we can do as informatics researchers to responsibly utilize and build AI tools to enhance our research.
 
 <div class = "link_button"><a href="SLIDE_LINK" target="_blank"> Slides Link</a></div>
 

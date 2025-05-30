@@ -8,10 +8,10 @@ output:
 
 In this workshop we will cover:
 
-- Best practices for making analyses reproducible
-- Best practices for organizing data and code
-- Writing durable code and managing package versions
-- Using GitHub to make code open source
+* What is reproducibility and how do I make my analysis reproducible?
+* What are best practices for organizing your data and code?
+* What are best practices for writing durable code and managing package versions?
+* How to use GitHub to make your code open source.
 
 <div class = "link_button"><a href="SLIDE_LINK" target="_blank"> Slides Link</a></div>
 
