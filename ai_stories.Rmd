@@ -1,0 +1,27 @@
+---
+title: "**AI in the Wild**"
+output:
+  html_document
+---
+
+## Workshop Material
+
+In this workshop we will cover:
+
+- Best practices for making analyses reproducible
+- Best practices for organizing data and code
+- Writing durable code and managing package versions
+- Using GitHub to make code open source
+
+<div class = "link_button"><a href="SLIDE_LINK" target="_blank"> Slides Link</a></div>
+
+<div class = "slido_button"><a href="SLIDO_LINK" target="_blank"> Discussion Link </a></div>
+
+<div class = "resource_button"><a
+href="RESOURCE_LINK" target="_blank"> An AI? </a></div>
+<br>
+
+
+<!--
+## Additional Resources
+-->

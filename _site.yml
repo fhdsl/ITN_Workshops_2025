@@ -1,23 +1,25 @@
-name: OTTR Template Website
+name: ITN Workshops at ITCR Annual Meeting 2025
 output_dir: 'docs'
 navbar:
-  title: OTTR Web
+  title: ITCR Annual Meeting 2025: ITN Workshops
   left:
   - text: ""
     href: index.html
     icon: fa-home
-  - text: 1. Setup
-    href: setup.html
-  - text: 2. Hosting
-    href: hosting.html
-  - text: Editing
-    href: editing.html
-  - text: 3. Style
-    href: style.html
-  - text: 4. Git Actions
-    href: git_actions.html
-  - text: More ottr docs
-    href: https://www.ottrproject.org/
+  - text: Reproducibility Practices
+    menu:
+    - text: Workshop Material
+      href: reproducibility.html
+    - text: Activity
+      href: github-activity-instructions.html
+  - text: AI in the Wild
+    menu:
+    - text: Workshop Material
+      href: ai_stories.html
+    - text: Activity
+      href: ai_activity.html
+  - text: ITN Resources
+    href: https://www.itcrtraining.org/home
 
 
 output:
