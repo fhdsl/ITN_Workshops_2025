@@ -1,0 +1,16 @@
+---
+title: AI in the Wild
+subtitle: Stories of Success and Failure
+output:
+  html_document:
+    toc: true
+    toc_float:
+      toc_collapsed: true
+    toc_depth: 3
+    number_sections: false
+css: style.css
+---
+```{r echo = FALSE, show = FALSE}
+knitr::opts_chunk$set(number_sections = FALSE)
+```
+## Activity
