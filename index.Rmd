@@ -1,7 +1,6 @@
 ---
 title: "**ITCR Annual Meeting 2025: ITN Workshops **"
-output:
-  html_document: default
+output: html_document
 ---
 
 Welcome to the ITN Workshops Series! Please feel free to refer to these materials in the future.
