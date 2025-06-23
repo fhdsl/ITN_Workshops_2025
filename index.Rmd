@@ -1,5 +1,5 @@
 ---
-title: "**ITCR Annual Meeting 2025: ITN Workshops**"
+title: "**ITCR Annual Meeting 2025: ITN Workshops **"
 output:
   html_document
 ---
