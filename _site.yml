@@ -9,7 +9,7 @@ navbar:
   - text: Reproducibility Practices
     menu:
     - text: Workshop Material
-      href: reproducibility.html
+      href: reproducibility_intro.html
     - text: Activity
       href: github-activity-instructions.html
   - text: AI in the Wild
