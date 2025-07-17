@@ -28,5 +28,6 @@ Welcome to the ITN Workshops Series! Please feel free to refer to these material
 ### **Pre-requisites**
 
 If you do not have a **GitHub account** or a preferred git client, please create your own GitHub account and install **GitHub Desktop**:
-  - [Create a GitHub account](https://github.com/) using the "Sign up" button in the top right.
-  - [Download GitHub Desktop](https://desktop.github.com/download/)
+
+  * [Create a GitHub account](https://github.com/) using the "Sign up" button in the top right.
+  * [Download GitHub Desktop](https://desktop.github.com/download/)
