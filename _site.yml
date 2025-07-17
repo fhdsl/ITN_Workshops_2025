@@ -1,7 +1,7 @@
 name: ITN Workshops at ITCR Annual Meeting 2025
 output_dir: 'docs'
 navbar:
-  title: ITCR Annual Meeting 2025: ITN Workshops
+  title: "ITCR Annual Meeting 2025: ITN Workshops"
   left:
   - text: ""
     href: index.html
