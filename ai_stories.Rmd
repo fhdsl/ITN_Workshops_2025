@@ -8,12 +8,12 @@ output:
 
 This workshop will cover real-world examples of AI success stories and blunders, as well as what we can do as informatics researchers to responsibly utilize and build AI tools to enhance our research.
 
-<div class = "link_button"><a href="SLIDE_LINK" target="_blank"> Slides Link</a></div>
+<div class = "link_button"><a href="https://docs.google.com/presentation/d/1cNLw7YCG8-tM8f8axYFromtswgR4tve2QzyN04fyJck/edit?usp=sharing" target="_blank"> Slides Link</a></div>
 
-<div class = "slido_button"><a href="SLIDO_LINK" target="_blank"> Discussion Link </a></div>
+<div class = "slido_button"><a href="https://app.sli.do/event/q8p6ufJbdwmWksy4Qd2t4U" target="_blank"> Discussion Link </a></div>
 
 <div class = "resource_button"><a
-href="RESOURCE_LINK" target="_blank"> An AI? </a></div>
+href="https://www.phind.com/" target="_blank"> phind </a></div>
 <br>
 
 

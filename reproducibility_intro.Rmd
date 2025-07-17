@@ -13,9 +13,9 @@ In this workshop we will cover:
 * What are best practices for writing durable code and managing package versions?
 * How to use GitHub to make your code open source.
 
-<div class = "link_button"><a href="SLIDE_LINK" target="_blank"> Slides Link</a></div>
+<div class = "link_button"><a href="https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?usp=sharing" target="_blank"> Slides Link</a></div>
 
-<div class = "slido_button"><a href="SLIDO_LINK" target="_blank"> Discussion Link </a></div>
+<div class = "slido_button"><a href="https://app.sli.do/event/2tJyoqnafW2HjHsA8tbqoj" target="_blank"> Discussion Link </a></div>
 
 <div class = "resource_button"><a
 href="https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop" target="_blank"> Install GitHub Desktop </a></div>
