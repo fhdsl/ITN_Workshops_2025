@@ -11,7 +11,7 @@
 
 
 
-<title>ITCR Annual Meeting 2025: ITN Workshops </title>
+<title>AI in the Wild</title>
 
 <script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -29,6 +29,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -224,6 +227,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -231,6 +297,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -299,61 +375,20 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore"><strong>ITCR Annual Meeting 2025: ITN
-Workshops </strong></h1>
+<h1 class="title toc-ignore">AI in the Wild</h1>
+<h3 class="subtitle">Stories of Success and Failure</h3>
 
 </div>
 
 
-<p>Welcome to the ITN Workshops Series! Please feel free to refer to
-these materials in the future.</p>
-<p><strong>Wi-Fi:</strong> Please use the guest network and supply your
-email.</p>
-<p><strong>Website:</strong> <a href="https://bit.ly/itcr2025"
-class="uri">https://bit.ly/itcr2025</a></p>
-<div id="schedule" class="section level3">
-<h3><strong>Schedule</strong></h3>
-<div class="myStyle" align="center">
-<table>
-<colgroup>
-<col width="75%" />
-<col width="24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Tues, Aug 19 (LOCATION)</th>
-<th align="center">Time</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Reproducibility Practices</td>
-<td align="center">9:00 AM - 10:30 AM</td>
-</tr>
-<tr class="even">
-<td>AI in the Wild: Stories of Success and Failure</td>
-<td align="center">11:00 AM - 12:00 PM</td>
-</tr>
-</tbody>
-</table>
-</div>
-<p><br></p>
-</div>
-<div id="pre-requisites" class="section level3">
-<h3><strong>Pre-requisites</strong></h3>
-<p>If you do not have a <strong>GitHub account</strong> or a preferred
-git client, please create your own GitHub account and install
-<strong>GitHub Desktop</strong>:</p>
-<ul>
-<li><a href="https://github.com/">Create a GitHub account</a> using the
-“Sign up” button in the top right.</li>
-<li><a href="https://desktop.github.com/download/">Download GitHub
-Desktop</a></li>
-</ul>
+<div id="activity" class="section level2">
+<h2>Activity</h2>
 </div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -386,6 +421,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
