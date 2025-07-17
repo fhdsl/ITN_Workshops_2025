@@ -1,0 +1,26 @@
+---
+title: "**Reproducibility Practices**"
+output:
+  html_document
+---
+
+## Workshop Material
+
+In this workshop we will cover:
+
+* What is reproducibility and how do I make my analysis reproducible?
+* What are best practices for organizing your data and code?
+* What are best practices for writing durable code and managing package versions?
+* How to use GitHub to make your code open source.
+
+<div class = "link_button"><a href="https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?usp=sharing" target="_blank"> Slides Link</a></div>
+
+<div class = "slido_button"><a href="https://app.sli.do/event/2tJyoqnafW2HjHsA8tbqoj" target="_blank"> Discussion Link </a></div>
+
+<div class = "resource_button"><a
+href="https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop" target="_blank"> Install GitHub Desktop </a></div>
+<br>
+
+## Additional Resources
+
+- [ITN Course "Introduction to Reproducibility in Cancer Informatics"](https://jhudatascience.org/Reproducibility_in_Cancer_Informatics/introduction.html)
