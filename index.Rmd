@@ -15,7 +15,7 @@ Welcome to the ITN Workshops Series! Please feel free to refer to these material
 
 <div class = "myStyle" align = "center">
 
-| Tues, Aug 19 (LOCATION)                                                   | Time                   |  
+| Tues, Aug 19 (Seminar 110 Room)                                           | Time                   |  
 |---------------------------------------------------------------------------|:----------------------:|
 | Reproducibility Practices                                                 | 9:00 AM - 10:30 AM     |  
 | AI in the Wild: Stories of Success and Failure                            | 11:00 AM - 12:00 PM    |  
