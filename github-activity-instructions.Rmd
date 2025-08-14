@@ -125,7 +125,13 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX
 
 ### Create an AI generated README
 
-<input type="checkbox"> In GitHub Desktop, Click the `Show in Finder` or `Show in Explorer` button depending on your operating system.  This should be about halfway down the screen.
+```{r echo = FALSE, fig.alt = "Generative AI tools can be useful for summarizing information and we will have a tool, Claude, do that for an example README file"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g27ccc8ff33d_0_1797#slide=id.g27ccc8ff33d_0_1797")
+```
+
+<input type="checkbox"> Open Claude in your browser [https://claude.ai/new](https://claude.ai/new). (Other AI chatbots can also work like https://poe.com/ or https://www.phind.com/search)
+
+<input type="checkbox"> In GitHub Desktop, Click the `Show in Finder` or `Show in Explorer` button depending on your operating system.  This should be about halfway down the screen.<br/>
 <input type="checkbox"> Right click the file names to open up both the `01-heatmap.Rmd` file and the `README.md` file with any text editor. (May need to select `Other` and `Enable all applications` if on a Mac.)
 
 ```{r echo=FALSE, fig.alt="Menu button to open files in GitHub Desktop"}
@@ -138,18 +144,18 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX
 <input type="checkbox"> Copy all the text from `01-heatmap.Rmd` (Cmd + A - Mac, Ctrl + A - Windows).     
 
 
-```{r echo=FALSE, fig.alt="image of copying the contents of the 01-heatmap.Rmd file and pasting in Phind to ask for a README file"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g2fcf7903f51_0_2141#slide=id.g2fcf7903f51_0_2141")
+```{r echo=FALSE, fig.alt="image of copying the contents of the 01-heatmap.Rmd file and pasting in Claude to ask for a README file"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g2fcf7903f51_0_2141#slide=id.g2fcf7903f51_0_2141")
 ```
 
-<input type="checkbox"> Go to phind https://www.phind.com/search in your browser. (Other AI chatbots can also work like https://poe.com/)
-<input type="checkbox"> Ask phind to create a README from the code. Copy (Cmd + A - Mac, Ctrl + C - Windows) and paste (Cmd + V - Mac, Ctrl + V - Windows) in the code from `01-heatmap.Rmd`. You may want to do some variations on the prompt you use to ask phind to do this to get good results.  
+<input type="checkbox"> Return to your browser (the Claude tab).<br/>
+<input type="checkbox"> Ask Claude to create a README from the code. Paste (Cmd + V - Mac, Ctrl + V - Windows) in the code from `01-heatmap.Rmd`. You may want to do some variations on the prompt you use to ask Claude to do this to get good results.<br/>
 
-```{r echo=FALSE, fig.alt="image of copying the response from Phind"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g28aa6633ca3_0_28#slide=id.g28aa6633ca3_0_28")
+```{r echo=FALSE, fig.alt="image of copying the response from Claude"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g28aa6633ca3_0_28#slide=id.g28aa6633ca3_0_28")
 ```
 
-<input type="checkbox"> Copy all the text from the desired phind output and paste it to `README.md`. Save the file.  
+<input type="checkbox"> Copy all the text from the desired Claude output (or Download a markdown file) and paste it to `README.md`. Save the file.  
 
 
 
@@ -234,7 +240,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX
 ")
 ```
 
-<input type="checkbox"> Click another plus sign to the left of a change.
+<input type="checkbox"> Click another plus sign to the left of a change.<br/>
 <input type="checkbox"> This time, click the little symbol that has a plus and minus in a page (next to the preview tab). This will start a suggestion, where you can make suggested changes to documents.
 
 ```{r echo=FALSE, fig.alt="The suggestion button which looks like a plus and minus sign in little box"}
@@ -298,9 +304,9 @@ On the bottom of your Pull Request (PR) you will notice a box at the bottom that
 
 This is an automatic check run by GitHub Actions which is one of many systems used for Continuous Integration/Continuous Deployment.
 
-<input type="checkbox">  If needed, click `Show all checks`.  
-<input type="checkbox"> If no failing checks, Click the 3 dots at the end of the line that says `Render R Example / render-notebooks (pull_request)`. Click `View Details`
-<input type="checkbox"> If failing checks, Click  `Details` at the end of the line that says `Render R Example / render-notebooks (pull_request)`
+<input type="checkbox">  If needed, click `Show all checks`.<br/>
+<input type="checkbox"> If no failing checks, Click the 3 dots at the end of the line that says `Render R Example / render-notebooks (pull_request)`. Click `View Details`<br/>
+<input type="checkbox"> If failing checks, Click  `Details` at the end of the line that says `Render R Example / render-notebooks (pull_request)`<br/>
 <input type="checkbox"> Click around to investigate what GitHub Actions logs look like.
 
 
@@ -318,8 +324,8 @@ In a real life setting the life of a pull request could be long or short. What's
 
 Pull requests and GitHub have their own kind of etiquette. Make sure you talk to your team or collaborators to create and discuss what kind of guidelines and workflows you'd like to adhere to so everyone can do their best work!
 
-<input type="checkbox"> Return to GitHub Pull Request Online.  
-<input type="checkbox"> Click the `Merge` button.
+<input type="checkbox"> Return to GitHub Pull Request Online.<br/>
+<input type="checkbox"> Click the `Merge` button.<br/>
 <input type="checkbox"> Follow up with the `Confirm merge` button.
 
 ```{r echo=FALSE, fig.alt="Merging button on a pull request on GitHub at the bottom left if you scroll down"}
