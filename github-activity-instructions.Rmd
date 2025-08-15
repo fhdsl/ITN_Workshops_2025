@@ -40,7 +40,7 @@ This repository is a "mock" analysis. It has an example folder and file organiza
 
 
 ```{r echo=FALSE, fig.alt="screenshot of the repository showing these files"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g2fcf7903f51_0_1984#slide=id.g2fcf7903f51_0_1984")
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g2fcf7903f51_0_1984#slide=id.g2fcf7903f51_0_1984")
 ```
 
 
@@ -55,7 +55,7 @@ When you look at the README for this repository however, you will notice it is b
 
 
 ```{r echo=FALSE, fig.alt="screenshot of the repository showing the use template button at the top of the screen"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g28d9b0eb45f_0_2227#slide=id.g28d9b0eb45f_0_2227")
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g28d9b0eb45f_0_2227#slide=id.g28d9b0eb45f_0_2227")
 ```
 
 
@@ -65,7 +65,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX
 
 
 ```{r echo=FALSE, fig.alt="screenshot of setting up the respository by naming it and setting it to public"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g28d9b0eb45f_0_2233#slide=id.g28d9b0eb45f_0_2233")
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g28d9b0eb45f_0_2233#slide=id.g28d9b0eb45f_0_2233")
 ```
 
 You will use the name in the next step!
@@ -80,7 +80,7 @@ GitHub Desktop is a great tool to help use use version control and interact with
 
 
 ```{r echo=FALSE, fig.alt="the menu buttons to clone a repository in GitHub Desktop, as well as the link that should be used- the link of the repository you just created from copying the template"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g27ccc8ff33d_0_1715#slide=id.g27ccc8ff33d_0_1715")
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g27ccc8ff33d_0_1715#slide=id.g27ccc8ff33d_0_1715")
 ```
 
 
@@ -96,7 +96,7 @@ We will be "juggling" some windows when doing this activity:
 
 
 ```{r echo=FALSE, fig.alt="A man juggling and a screenshot of the 3 locations we are working in"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g2fcf7903f51_0_2041#slide=id.g2fcf7903f51_0_2041
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g2fcf7903f51_0_2041#slide=id.g2fcf7903f51_0_2041
 ")
 ```
 
@@ -118,24 +118,24 @@ In GitHub Desktop:
 
 
 ```{r echo=FALSE, fig.alt="A screenshot of creating a new branch in GitHub Desktop"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g27ccc8ff33d_0_1760#slide=id.g27ccc8ff33d_0_1760
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g27ccc8ff33d_0_1760#slide=id.g27ccc8ff33d_0_1760
 ")
 ```
 
 
 ### Create an AI generated README
 
+<input type="checkbox"> Open Claude in your browser [https://claude.ai/new](https://claude.ai/new). (Other AI chatbots can also work like https://poe.com/ or https://www.phind.com/search)
+
 ```{r echo = FALSE, fig.alt = "Generative AI tools can be useful for summarizing information and we will have a tool, Claude, do that for an example README file"}
 ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g27ccc8ff33d_0_1797#slide=id.g27ccc8ff33d_0_1797")
 ```
-
-<input type="checkbox"> Open Claude in your browser [https://claude.ai/new](https://claude.ai/new). (Other AI chatbots can also work like https://poe.com/ or https://www.phind.com/search)
 
 <input type="checkbox"> In GitHub Desktop, Click the `Show in Finder` or `Show in Explorer` button depending on your operating system.  This should be about halfway down the screen.<br/>
 <input type="checkbox"> Right click the file names to open up both the `01-heatmap.Rmd` file and the `README.md` file with any text editor. (May need to select `Other` and `Enable all applications` if on a Mac.)
 
 ```{r echo=FALSE, fig.alt="Menu button to open files in GitHub Desktop"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g2fcf7903f51_0_2111#slide=id.g2fcf7903f51_0_2111
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g2fcf7903f51_0_2111#slide=id.g2fcf7903f51_0_2111
 ")
 ```
 
@@ -166,7 +166,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txX
 <input type="checkbox"> Go back to GitHub Desktop. You should see `1 changed file` in the upper right corner. It may be upper left depending on your machine and version of GitHub Desktop.
 
 ```{r echo=FALSE, fig.alt="showing the changes from adding contents to the readme file in GitHub Desktop - these are shown as green text"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g27d63c3b196_1_32#slide=id.g27d63c3b196_1_32")
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g27d63c3b196_1_32#slide=id.g27d63c3b196_1_32")
 ```
 
 
@@ -175,7 +175,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX
 <input type="checkbox"> Click the `Publish branch` button. This will "push" your changes to online GitHub.com  
 
 ```{r echo=FALSE, fig.alt="the process of adding a commit message and publishing and pushing the changes to GitHub.com"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g27ccc8ff33d_0_1812#slide=id.g27ccc8ff33d_0_1812")
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g27ccc8ff33d_0_1812#slide=id.g27ccc8ff33d_0_1812")
 ```
 
 
@@ -185,7 +185,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX
 
 
 ```{r echo=FALSE, fig.alt="Button to make a pull reqestion in GitHub Desktop"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g2fcf7903f51_0_2189#slide=id.g2fcf7903f51_0_2189
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g2fcf7903f51_0_2189#slide=id.g2fcf7903f51_0_2189
 ")
 ```
 
@@ -196,7 +196,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX
 
 
 ```{r echo=FALSE, fig.alt="Pull Requests on GitHub.com"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g27ccc8ff33d_0_1895#slide=id.g27ccc8ff33d_0_1895
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g27ccc8ff33d_0_1895#slide=id.g27ccc8ff33d_0_1895
 ")
 ```
 
@@ -209,7 +209,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX
 <input type="checkbox"> Return to your pull request on GitHub in your browser from Activity 1.   
 
 ```{r echo=FALSE, fig.alt="Pull Requests on GitHub.comb"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g2fcf7903f51_0_2228#slide=id.g2fcf7903f51_0_2228
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g2fcf7903f51_0_2228#slide=id.g2fcf7903f51_0_2228
 ")
 ```
 
@@ -220,7 +220,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX
 
 
 ```{r echo=FALSE, fig.alt="Pull Requests on GitHub.com, the files changed ta"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g2fcf7903f51_0_2236#slide=id.g2fcf7903f51_0_2236
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g2fcf7903f51_0_2236#slide=id.g2fcf7903f51_0_2236
 ")
 ```
 
@@ -228,7 +228,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX
 <input type="checkbox"> Click one of the plus signs to the left of one of your changes to leave a comment.
 
 ```{r echo=FALSE, fig.alt="click on plus sign"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g2fcf7903f51_0_2244#slide=id.g2fcf7903f51_0_2244
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g2fcf7903f51_0_2244#slide=id.g2fcf7903f51_0_2244
 ")
 ```
 
@@ -236,7 +236,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX
 <input type="checkbox"> Type something and then click `Add single comment`. Nice, you added a comment!
 
 ```{r echo=FALSE, fig.alt="adding a comment"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g3477d608862_3_13#slide=id.g3477d608862_3_13
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g3477d608862_3_13#slide=id.g3477d608862_3_13
 ")
 ```
 
@@ -244,7 +244,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX
 <input type="checkbox"> This time, click the little symbol that has a plus and minus in a page (next to the preview tab). This will start a suggestion, where you can make suggested changes to documents.
 
 ```{r echo=FALSE, fig.alt="The suggestion button which looks like a plus and minus sign in little box"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g2fcf7903f51_0_2253#slide=id.g2fcf7903f51_0_2253
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g2fcf7903f51_0_2253#slide=id.g2fcf7903f51_0_2253
 ")
 ```
 
@@ -257,7 +257,7 @@ Note that you or a collaborator can now readily incorporate your suggestion by c
 <input type="checkbox"> Click `Commit suggestion` and then `Commit changes`.  
 
 ```{r echo=FALSE, fig.alt="The commit changes button for a suggestion"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g28aa6633ca3_0_56#slide=id.g28aa6633ca3_0_56
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g28aa6633ca3_0_56#slide=id.g28aa6633ca3_0_56
 ")
 ```
 
@@ -265,7 +265,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX
 <input type="checkbox"> Return to the `Conversation` tab and scroll to the bottom. You should see an additional commit and your comment now!
 
 ```{r echo=FALSE, fig.alt="The conversation tab showing the change"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g2fcf7903f51_0_2262#slide=id.g2fcf7903f51_0_2262
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g2fcf7903f51_0_2262#slide=id.g2fcf7903f51_0_2262
 ")
 ```
 
@@ -278,14 +278,14 @@ If you followed the steps in the `Leaving comments and suggestions` section of t
 <input type="checkbox"> Click the `Fetch origin` button.  
 
 ```{r echo=FALSE, fig.alt="The Fetch Origin Button on the top right of GitHub Desktop"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g2fcf7903f51_0_2215#slide=id.g2fcf7903f51_0_2215
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g2fcf7903f51_0_2215#slide=id.g2fcf7903f51_0_2215
 ")
 ```
 
 <input type="checkbox"> You should be prompted to `Pull origin` click this button.
 
-```{r echo=FALSE, fig.alt="The pull orgin button in GitHub Desktop"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g28aa6633ca3_0_70#slide=id.g28aa6633ca3_0_70
+```{r echo=FALSE, fig.alt="The pull origin button in GitHub Desktop"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g28aa6633ca3_0_70#slide=id.g28aa6633ca3_0_70
 ")
 ```
 
@@ -293,7 +293,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX
 <input type="checkbox"> Click the History tab to see your changes over time. Note the most recent are at the top.
 
 ```{r echo=FALSE, fig.alt="The History tab on the left top of GitHub Desktop"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g28aa6633ca3_0_77#slide=id.g28aa6633ca3_0_77")
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g28aa6633ca3_0_77#slide=id.g28aa6633ca3_0_77")
 ```
 
 
@@ -312,7 +312,7 @@ This is an automatic check run by GitHub Actions which is one of many systems us
 
 
 ```{r echo=FALSE, fig.alt="Example of a GitHub action log which shows various steps and a green check mark for succesfully run actions"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g2fcf7903f51_0_2274#slide=id.g2fcf7903f51_0_2274
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g2fcf7903f51_0_2274#slide=id.g2fcf7903f51_0_2274
 ")
 ```
 
@@ -330,7 +330,7 @@ Pull requests and GitHub have their own kind of etiquette. Make sure you talk to
 <input type="checkbox"> Follow up with the `Confirm merge` button.
 
 ```{r echo=FALSE, fig.alt="Merging button on a pull request on GitHub at the bottom left if you scroll down"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g28aa6633ca3_0_114#slide=id.g28aa6633ca3_0_114
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g28aa6633ca3_0_114#slide=id.g28aa6633ca3_0_114
 ")
 ```
 
@@ -338,7 +338,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX
 <input type="checkbox"> You can also click the `Delete branch` button - our changes are already in main and we have a copy of what we did.
 
 ```{r echo=FALSE, fig.alt="The button for deleting the branch"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX6WxDZiyO4bIzBCEFmkdvULasCbw/edit?slide=id.g2fcf7903f51_0_2304#slide=id.g2fcf7903f51_0_2304
+ottrpal::include_slide("https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?slide=id.g2fcf7903f51_0_2304#slide=id.g2fcf7903f51_0_2304
 ")
 ```
 
