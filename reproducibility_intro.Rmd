@@ -23,4 +23,9 @@ href="https://docs.github.com/en/desktop/installing-and-authenticating-to-github
 
 ## Additional Resources
 
-- [ITN Course "Introduction to Reproducibility in Cancer Informatics"](https://jhudatascience.org/Reproducibility_in_Cancer_Informatics/introduction.html)
+- [ITN Course "Documentation and Usability"](https://hutchdatascience.org/ITN_course_search/Documentation_and_Usability_coursePage.html)
+- [ITN Course "Intro to Reproducibility in Cancer Informatics"](https://hutchdatascience.org/ITN_course_search/Reproducibility_in_Cancer_Informatics_coursePage.html)
+- [ITN Course "Advanced Reproducibility in Cancer Informatics"](https://hutchdatascience.org/ITN_course_search/Adv_Reproducibility_in_Cancer_Informatics_coursePage.html)
+- [ITN Course "Github Automation for Scientists"](https://hutchdatascience.org/ITN_course_search/GitHub_Automation_for_Scientists_coursePage.html)
+- [ITN Course "Containers for Scientists"](https://hutchdatascience.org/ITN_course_search/Containers_for_Scientists_coursePage.html)
+- [ITN Course "Making Science Reproducible - a Capstone Project Course"](https://hutchdatascience.org/ITN_course_search/reproducibility_capstone_coursePage.html)
