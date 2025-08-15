@@ -11,5 +11,5 @@ See the website here: https://hutchdatascience.org/ITN_Workshops_2025/
 
 The slides associated with these activities can be found here:
 
-- [Reproducibility Practices for ITCR Trainees]()
-- [AI in the Wild: Stories of Success and Failure]()
+- [Reproducibility Practices for ITCR Trainees](https://docs.google.com/presentation/d/119REsbbZS9w86txXu7GZKHegDnavgfxVDRg-WEXoBZE/edit?usp=sharing)
+- [AI in the Wild: Stories of Success and Failure](https://docs.google.com/presentation/d/1cNLw7YCG8-tM8f8axYFromtswgR4tve2QzyN04fyJck/edit?usp=sharing)
