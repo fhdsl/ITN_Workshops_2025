@@ -298,6 +298,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1floOR4W_tfuj0uCX
 
 
 <input type="checkbox"> Now your changes should be synced. Open up the file you've changed with any default text editor to look for the change you made to make sure.  
+
 ### 2c: Reading GitHub Actions logs
 
 On the bottom of your Pull Request (PR) you will notice a box at the bottom that will probably either say `Some checks haven't completed yet` or `All checks passed`.  
