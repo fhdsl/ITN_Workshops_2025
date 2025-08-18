@@ -20,6 +20,9 @@ href="https://poe.com/login" target="_blank"> poe </a></div>
 <br>
 
 
-<!--
 ## Additional Resources
--->
+
+- [ITN Course "AI for Decision Makers"](https://hutchdatascience.org/ITN_course_search/AI_for_Decision_Makers_coursePage.html)
+- [ITN Course "AI for Efficient Programming"](https://hutchdatascience.org/ITN_course_search/AI_for_Efficient_Programming_coursePage.html)
+
+The discussion for this workshop overviews several research papers (peer-reviewed and preprints) that act as resources to help in critically identifying and contemplating considerations in effectively and ethically using AI for research.

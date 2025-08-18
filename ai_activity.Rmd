@@ -13,4 +13,108 @@ css: style.css
 ```{r echo = FALSE, show = FALSE}
 knitr::opts_chunk$set(number_sections = FALSE)
 ```
-## Activity
+## Resources presented in the discussion
+
+The discussion provided an overview of
+
+* some new helpful AI tools for biomedical research
+* examples of success stories using AI effectively for research
+* stories of caution or failure identifying weaknesses or areas where researchers should be especially careful
+
+<details><summary>New Helpful AI Tools</summary>
+
+```{r echo=FALSE, fig.alt = "Molmo is an AI tool for understanding and interacting with visual data", fig.link="https://allenai.org/blog/molmo"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1cNLw7YCG8-tM8f8axYFromtswgR4tve2QzyN04fyJck/edit?slide=id.g374a98092de_0_2#slide=id.g374a98092de_0_2")
+```
+
+```{r echo=FALSE, fig.alt = "AlphaFold Server to predict structure of various biological complexes", fig.link = "https://alphafoldserver.com/welcome"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1cNLw7YCG8-tM8f8axYFromtswgR4tve2QzyN04fyJck/edit?slide=id.g374a98092de_0_19#slide=id.g374a98092de_0_19")
+```
+
+```{r echo=FALSE, fig.alt = "AlphaGenome to predict gene expression levels and the impact of mutations", fig.link = "https://deepmind.google.com/science/alphagenome/"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1cNLw7YCG8-tM8f8axYFromtswgR4tve2QzyN04fyJck/edit?slide=id.g374a98092de_0_8#slide=id.g374a98092de_0_8")
+```
+
+```{r echo = FALSE, fig.alt = "There are several tooling platforms for sharing code, data, and benchmarks"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1cNLw7YCG8-tM8f8axYFromtswgR4tve2QzyN04fyJck/edit?slide=id.g378408c79fc_0_37#slide=id.g378408c79fc_0_37")
+```
+
+</details>
+
+<details><summary>Success Stories</summary>
+
+```{r echo=FALSE, fig.alt = "The Virtual Lab of AI agents designs new SARS-CoV-2 nanobodies", fig.link = "https://www.nature.com/articles/s41586-025-09442-9"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1cNLw7YCG8-tM8f8axYFromtswgR4tve2QzyN04fyJck/edit?slide=id.g375d76093bb_0_48#slide=id.g375d76093bb_0_48")
+```
+
+```{r echo=FALSE, fig.alt = "CRISPR-GPT for agenic automation of gene-editing experiments", fig.link = "https://www.nature.com/articles/s41551-025-01463-z"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1cNLw7YCG8-tM8f8axYFromtswgR4tve2QzyN04fyJck/edit?slide=id.g374a98092de_0_383#slide=id.g374a98092de_0_383")
+```
+
+```{r echo=FALSE, fig.alt = "Prompt Adaptation as a Dynamic Complement in Generative AI Systems", fig.link = "https://arxiv.org/abs/2407.14333v5"}
+ottrpal::include_slide('https://docs.google.com/presentation/d/1cNLw7YCG8-tM8f8axYFromtswgR4tve2QzyN04fyJck/edit?slide=id.g374a98092de_0_390#slide=id.g374a98092de_0_390')
+```
+
+```{r echo=FALSE, fig.alt = "Measuring AI Ability to Complete Long Tasks", fig.link = "https://arxiv.org/pdf/2503.14499"}
+ottrpal::include_slide('https://docs.google.com/presentation/d/1cNLw7YCG8-tM8f8axYFromtswgR4tve2QzyN04fyJck/edit?slide=id.g374a98092de_0_395#slide=id.g374a98092de_0_395')
+```
+
+</details>
+
+<details><summary>Failures</summary>
+
+```{r echo = FALSE, fig.alt = "Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity", fig.link = "https://arxiv.org/pdf/2507.09089"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1cNLw7YCG8-tM8f8axYFromtswgR4tve2QzyN04fyJck/edit?slide=id.g3782b1cd9cc_0_50#slide=id.g3782b1cd9cc_0_50")
+```
+
+```{r echo = FALSE, fig.alt = "I destroyed months of work by a developer in seconds says AI coding tool after panicking and deleting an entire database", fig.link = "https://www.pcgamer.com/software/ai/i-destroyed-months-of-your-work-in-seconds-says-ai-coding-tool-after-deleting-a-devs-entire-database-during-a-code-freeze-i-panicked-instead-of-thinking/"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1cNLw7YCG8-tM8f8axYFromtswgR4tve2QzyN04fyJck/edit?slide=id.g375d76093bb_0_75#slide=id.g375d76093bb_0_75")
+```
+
+```{r echo = FALSE, fig.alt = "Does ChatGPT Ignore Article Retractions and Other Reliability Concerns?", fig.link = "https://onlinelibrary.wiley.com/doi/10.1002/leap.2018"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1cNLw7YCG8-tM8f8axYFromtswgR4tve2QzyN04fyJck/edit?slide=id.g378408c79fc_0_60#slide=id.g378408c79fc_0_60")
+```
+
+```{r echo = FALSE, fig.alt = "Multi-model assurance analysis showing large language models are highly vulnerable to adversarial hallucination attacks during clinical decision support", fig.link = "https://www.nature.com/articles/s43856-025-01021-3"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1cNLw7YCG8-tM8f8axYFromtswgR4tve2QzyN04fyJck/edit?slide=id.g374efa3614f_1_122#slide=id.g374efa3614f_1_122")
+```
+
+```{r echo = FALSE, fig.alt = "Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs", fig.link = "https://arxiv.org/pdf/2502.17424"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1cNLw7YCG8-tM8f8axYFromtswgR4tve2QzyN04fyJck/edit?slide=id.g37898032410_2_6#slide=id.g37898032410_2_6")
+```
+
+```{r echo = FALSE, fig.alt = "Deep-learning based gene perturbation effect prediction does not yet outperform simple linear baselines", fig.link = "https://www.nature.com/articles/s41592-025-02772-6"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1cNLw7YCG8-tM8f8axYFromtswgR4tve2QzyN04fyJck/edit?slide=id.g374efa3614f_1_135#slide=id.g374efa3614f_1_135")
+```
+
+```{r echo = FALSE, fig.alt = "Expressing stigma and inappropriate responses prevents LLMs from safely replacing mental health providers", fig.link = "https://arxiv.org/abs/2504.18412"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1cNLw7YCG8-tM8f8axYFromtswgR4tve2QzyN04fyJck/edit?slide=id.g3782b1cd9cc_0_123#slide=id.g3782b1cd9cc_0_123")
+```
+
+```{r echo = FALSE, fig.alt = "Endoscopist deskilling risk after exposure to artificial intelligence in colonoscopy: a multi-center, observational study", fig.link = "https://www.thelancet.com/journals/langas/article/PIIS2468-1253(25)00133-5/fulltext"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1cNLw7YCG8-tM8f8axYFromtswgR4tve2QzyN04fyJck/edit?slide=id.g374efa3614f_1_4#slide=id.g374efa3614f_1_4")
+```
+
+```{r echo = FALSE, fig.alt = "On Targeted Manipulation and Deception when Optimizing LLMs for User Feedback", fig.link = "https://arxiv.org/pdf/2411.02306"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1cNLw7YCG8-tM8f8axYFromtswgR4tve2QzyN04fyJck/edit?slide=id.g374a98092de_0_108#slide=id.g374a98092de_0_108")
+```
+
+</details>
+
+## Suggested Optional Activity
+
+Because this workshop is discussion based, there is no guided activity. However, we provide an area with some further resources. Specifically this area regards prompt engineering and how to write effective prompts when interacting with an AI tool. We saw the positive and negative effect of prompts in several of the discussion examples and view this as an important area for developers and researchers to consider more deeply.
+
+### Review of what prompt engineering is (from the people behind some of the AI tools)
+
+* [Google -- Prompt engineering: overview and guide](https://cloud.google.com/discover/what-is-prompt-engineering)
+* [Google -- Safety and Fallback in prompt design](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/introduction-prompt-design#safety-and-fallback-responses)
+* [OpenAI: Prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering)
+* [IBM: What is prompt engineering?](https://www.ibm.com/think/topics/prompt-engineering)
+
+### Effectively constructing prompts
+
+* [Google: Overview of prompting strategies](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/prompt-design-strategies)
+* [Ohio State: Prompt Engineering (aimed towards educators)](https://cdli.ehe.osu.edu/ai-in-ehe/ai-101/prompt-engineering/)
+* [Harvard: Getting started with prompts for text-based Generative AI tools](https://www.huit.harvard.edu/news/ai-prompts)
+* [MIT: Effective Prompts for AI: The Essentials](http://mitsloanedtech.mit.edu/ai/basics/effective-prompts/)
