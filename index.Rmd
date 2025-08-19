@@ -32,3 +32,8 @@ If you do not have a **GitHub account** or a preferred git client, please create
 
   * [Create a GitHub account](https://github.com/) using the "Sign up" button in the top right.
   * [Download GitHub Desktop](https://desktop.github.com/download/)
+
+### *Contact ITN**
+
+* Email us: itcrtrainingnetwork@gmail.com
+* Website: https://www.itcrtraining.org/
