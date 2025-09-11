@@ -25,4 +25,11 @@ href="https://poe.com/login" target="_blank"> poe </a></div>
 - [ITN Course "AI for Decision Makers"](https://hutchdatascience.org/ITN_course_search/AI_for_Decision_Makers_coursePage.html)
 - [ITN Course "AI for Efficient Programming"](https://hutchdatascience.org/ITN_course_search/AI_for_Efficient_Programming_coursePage.html)
 
+### GitHub Copilot Resources
+
+- [Use Copilot online](https://github.com/copilot)
+- [What features does Copilot offer?](https://github.com/features/copilot)
+- [GitHub Documentation on Getting started with Copilot](https://docs.github.com/en/copilot/get-started/quickstart)
+
+
 The discussion for this workshop overviews several research papers (peer-reviewed and preprints) that act as resources to help in critically identifying and contemplating considerations in effectively and ethically using AI for research.

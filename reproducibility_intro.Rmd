@@ -29,3 +29,9 @@ href="https://docs.github.com/en/desktop/installing-and-authenticating-to-github
 - [ITN Course "Github Automation for Scientists"](https://hutchdatascience.org/ITN_course_search/GitHub_Automation_for_Scientists_coursePage.html)
 - [ITN Course "Containers for Scientists"](https://hutchdatascience.org/ITN_course_search/Containers_for_Scientists_coursePage.html)
 - [ITN Course "Making Science Reproducible - a Capstone Project Course"](https://hutchdatascience.org/ITN_course_search/reproducibility_capstone_coursePage.html)
+
+### GitHub Copilot Resources
+
+- [Use Copilot online](https://github.com/copilot)
+- [What features does Copilot offer?](https://github.com/features/copilot)
+- [GitHub Documentation on Getting started with Copilot](https://docs.github.com/en/copilot/get-started/quickstart)
